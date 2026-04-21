@@ -1,4 +1,4 @@
-# Mortgage Calculator (Java)
+# Mortgage Calculator - Java
 
 A simple command-line mortgage calculator built with core Java. The program takes loan inputs, applies the standard mortgage payment formula, and prints a formatted monthly payment.
 
